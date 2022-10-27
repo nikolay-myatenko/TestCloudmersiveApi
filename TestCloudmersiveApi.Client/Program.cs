@@ -11,7 +11,7 @@ namespace TestCloudmersiveApi.Client
 {
     internal class Program
     {
-        private const string API_KEY = "bfc09b96-15dc-4774-8c9b-dbbd4a79e1f8"; // Cloudmersive API Key
+        private const string API_KEY = "***API_KEY***"; // Cloudmersive API Key
         private const string SCAN_FILES_ROOT_PATH = @"D:\Desktop\"; // Path to the folder to scan
 
         static void Main(string[] args)
